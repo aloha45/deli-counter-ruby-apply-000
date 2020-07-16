@@ -14,7 +14,10 @@ end
 
 def take_a_number(katz_deli)
   counter = 0
-  count += 1
+  counter += 1
+  katz deli << counter
+    puts  "Welcome. You are number #{counter} in line."
+end
 
 # def take_a_number(katz_deli, new_customer)
 #   katz_deli << new_customer
