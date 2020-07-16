@@ -12,10 +12,11 @@ def line(katz_deli)
   end
 end
 
+counter = 0
+
 def take_a_number(katz_deli)
-  counter = 0
-  counter += 1
   katz deli << counter
+  counter += 1
     puts  "Welcome. You are number #{counter} in line."
 end
 
